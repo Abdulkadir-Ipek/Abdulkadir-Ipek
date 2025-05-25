@@ -1,9 +1,3 @@
-<!-- 🚀 Hacker Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abdulkadir-Ipek/Abdulkadir-Ipek/main/hacker-glitch-banner.gif"
-     width="900" alt="Hacker Glitch Banner"/>
-
-</p>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  
