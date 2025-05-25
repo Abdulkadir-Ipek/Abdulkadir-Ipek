@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00FFC0&center=true&vCenter=true&width=800&height=45&lines=Cybersecurity+%F0%9F%94%91+%E2%80%A2+Pentester+%E2%9A%A1%EF%B8%8F+%E2%80%A2+Machine+Learning+%F0%9F%A4%96+%E2%80%A2+Network+Ninja+%F0%9F%9A%80"
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00FFC0&center=true&vCenter=true&width=800&height=45&lines=Cybersecurity+%F0%9F%94%91+%E2%80%A2+Pentester+%E2%9A%A1%EF%B8%8F+%E2%80%A2+Network+%F0%9F%9A%80"
        alt="Typing SVG" />
 </p>
 
