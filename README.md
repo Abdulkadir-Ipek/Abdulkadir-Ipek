@@ -1,56 +1,55 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Abdulkadir 👋</h1>
 
 <p align="center">
-  <em>Software Developer | Open Source Enthusiast | Lifelong Learner</em>
+  <em>2nd Year Computer Engineering Student at Hitit University</em><br/>
+  <em>Cybersecurity Enthusiast | Python Lover</em>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: `your-cool-project`
-- 🌱 I’m currently learning: `Rust`, `Kubernetes`, and `AI Systems`
-- 💬 Ask me about: `JavaScript`, `Python`, `Web Development`
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: I love building tools that help people be more productive.
+- 🎓 I'm currently studying Computer Engineering (2nd year) at **Hitit University**.
+- 🌍 Based in **Çorum, Turkey**.
+- 🔐 Passionate about **Cybersecurity** and exploring the world of digital defense.
+- 🐍 Mainly working with **Python**, but also familiar with **C#**, **HTML**, **CSS**, **JavaScript**, and **PHP**.
+- 📫 You can reach me at: [abdulkadiripekk@gmail.com](mailto:abdulkadiripekk@gmail.com)
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Languages & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![C#](https://img.shields.io/badge/-CSharp-black?style=flat-square&logo=csharp)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+
+---
+
+### 🌱 Interests
+
+- 🛡️ Cybersecurity
+- 🤖 AI & Automation
+- 🌐 Web Technologies
+- 💻 General Software Development
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdulkadiripek&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkadiripek&theme=tokyonight" />
 </p>
 
 ---
 
-### 🧠 Currently Interested In
+### 🌍 Connect with Me
 
-- 🧩 AI + DevTools
-- 🕸️ Decentralized Web (Web3)
-- 🧪 Experimenting with new ideas
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkadir-ipek)
 
 ---
 
-### 📫 Let’s Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://yourwebsite.com)
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
+> “Every journey begins with a single step.” – Unknown
