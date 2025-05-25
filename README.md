@@ -31,8 +31,8 @@
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulkadiripek&theme=tokyonight&show_icons=true&hide_border=false" width="45%"/>
-  <img src="https://github-readme-streak-stats.demolab.com?user=abdulkadiripek&theme=tokyonight&hide_border=false" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulkadir-ipek&theme=tokyonight&show_icons=true&hide_border=false" width="45%"/>
+  <img src="https://github-readme-streak-stats.demolab.com?user=abdulkadir-ipek&theme=tokyonight&hide_border=false" width="45%"/>
 </p>
 
 <p align="center">
