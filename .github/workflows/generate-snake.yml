@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@master
         with:
-          github_user_name: abdulkadiripek
+          github_user_name: abdulkadir-ipek
           outputs: |
             dist/github-contribution-grid-snake.svg
       - name: Push the snake
