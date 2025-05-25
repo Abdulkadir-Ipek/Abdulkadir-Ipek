@@ -33,7 +33,7 @@
 ```diff
 + 🎓 2nd-year Computer Engineering student @ Hitit University
 + 🛡️ Pentesting · Cybersecurity · Network Security
-+ 🤖 ML for Threat Detection & Anomaly Systems
++ 🤖 Machine Learning
 + 🐍 Python, C#, HTML/CSS/JS, PHP
 + 🚀 Always Learning | Always Hacking
 ```
@@ -43,7 +43,7 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,csharp,docker,nmap,wireshark,html,css,js,php,git,github&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,nmap,wireshark,php,git,github&perline=9" />
 </p>
 
 ---
