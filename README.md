@@ -55,9 +55,6 @@
   <img src="https://streak-stats.demolab.com?user=abdulkadir-ipek&theme=tokyonight&hide_border=true&border_radius=10"  width="47%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulkadir-ipek&theme=onestar&no-frame=true&margin-w=5" />
-</p>
 
 ---
 
@@ -68,15 +65,3 @@
 </p>
 
 ---
-
-## 😄 Fun Fact
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230d1117&qColor=%23ffda5c&aColor=%23c778dd" alt="Random Joke" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" />
-  <br/>
-  <i>“Hackers don’t do push-ups; they push the Earth down.”</i>
-</p>
