@@ -1,6 +1,6 @@
 <!-- 🚀 Animated Hacker Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdulkadiripek/branding/main/hacker-glitch-banner.gif"
+  <img src="https://raw.githubusercontent.com/abdulkadir-ipek/branding/main/hacker-glitch-banner.gif"
        width="900" alt="Hacker Glitch Banner"/>
 </p>
 
@@ -51,12 +51,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abdulkadiripek&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10"  width="47%"/>
-  <img src="https://streak-stats.demolab.com?user=abdulkadiripek&theme=tokyonight&hide_border=true&border_radius=10"  width="47%"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abdulkadir-ipek&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10"  width="47%"/>
+  <img src="https://streak-stats.demolab.com?user=abdulkadir-ipek&theme=tokyonight&hide_border=true&border_radius=10"  width="47%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulkadiripek&theme=onestar&no-frame=true&margin-w=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulkadir-ipek&theme=onestar&no-frame=true&margin-w=5" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/abdulkadiripek/abdulkadiripek/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/abdulkadir-ipek/abdulkadiri-pek/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
