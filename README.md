@@ -1,6 +1,6 @@
 <!-- 🚀 Hacker Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdulkadir-Ipek/Abdulkadir-Ipek/main/hacker-glitch-bannerr.gif"
+  <img src="https://raw.githubusercontent.com/Abdulkadir-Ipek/Abdulkadir-Ipek/main/hacker-glitch-banner.gif"
      width="900" alt="Hacker Glitch Banner"/>
 
 </p>
