@@ -61,7 +61,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/abdulkadir-ipek/abdulkadiri-pek/blob/output/github-contribution-grid-snake.svg" />
+  ![snake gif](https://github.com/abdulkadiripek/abdulkadiripek/blob/output/github-contribution-grid-snake.svg)
 </p>
 
 ---
