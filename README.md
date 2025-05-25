@@ -51,8 +51,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abdulkadiripek&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10"  width="47%"/>
-  <img src="https://streak-stats.demolab.com?user=abdulkadiripek&theme=tokyonight&hide_border=true&border_radius=10"  width="47%"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abdulkadir-ipek&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10"  width="47%"/>
+  <img src="https://streak-stats.demolab.com?user=abdulkadir-ipek&theme=tokyonight&hide_border=true&border_radius=10"  width="47%"/>
 </p>
 
 ---
@@ -60,5 +60,5 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/abdulkadiripek/abdulkadiripek/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/abdulkadir-ipek/abdulkadir-ipek/blob/output/github-contribution-grid-snake.svg" />
 </p>
