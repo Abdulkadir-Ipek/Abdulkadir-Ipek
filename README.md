@@ -1,4 +1,4 @@
-<!-- 🚀 Animated Hacker Banner -->
+<!-- 🚀 Hacker Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/abdulkadir-ipek/branding/main/hacker-glitch-banner.gif"
        width="900" alt="Hacker Glitch Banner"/>
@@ -15,7 +15,7 @@
        alt="Typing SVG" />
 </p>
 
-<!-- 🛡️ Badges -->
+<!-- 🛡️ Contact & Stats Badges -->
 <div align="center">
   <a href="mailto:abdulkadiripekk@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -24,18 +24,18 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=abdulkadiripek&style=for-the-badge&label=Profile+Views&color=brightgreen" />
-  <img src="https://img.shields.io/github/followers/abdulkadiripek?style=for-the-badge&color=%23f4e05f&label=Followers" />
 </div>
 
 ---
 
 ## ✨ About Me
+
 ```diff
-+ 🧑‍🎓 2nd-year Computer Engineering student @ Hitit University
++ 🎓 2nd-year Computer Engineering student @ Hitit University
 + 🛡️ Pentesting · Cybersecurity · Network Security
 + 🤖 ML for Threat Detection & Anomaly Systems
 + 🐍 Python, C#, HTML/CSS/JS, PHP
-+ 🧠 Always Learning | Always Hacking
++ 🚀 Always Learning | Always Hacking
 ```
 
 ---
@@ -51,17 +51,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abdulkadir-ipek&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10"  width="47%"/>
-  <img src="https://streak-stats.demolab.com?user=abdulkadir-ipek&theme=tokyonight&hide_border=true&border_radius=10"  width="47%"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=abdulkadiripek&theme=tokyonight&show_icons=true&hide_border=true&border_radius=10"  width="47%"/>
+  <img src="https://streak-stats.demolab.com?user=abdulkadiripek&theme=tokyonight&hide_border=true&border_radius=10"  width="47%"/>
 </p>
-
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  ![snake gif](https://github.com/abdulkadiripek/abdulkadiripek/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/abdulkadiripek/abdulkadiripek/blob/output/github-contribution-grid-snake.svg" />
 </p>
-
----
