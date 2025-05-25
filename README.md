@@ -1,7 +1,7 @@
-<h1 align="center">🚀 Abdulkadir İpek - Cybersecurity & ML Explorer 🧠</h1>
+<h1 align="center">🚀 Abdulkadir İpek - Cybersecurity</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&multiline=true&lines=Computer+Engineering+Student;Cybersecurity+Enthusiast;Pentesting+%7C+Machine+Learning+%7C+Networks;Always+Learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=0FFFC2&center=true&vCenter=true&multiline=true&width=600&lines=Computer+Engineering+Student;Cybersecurity+Enthusiast;Pentester+%7C+Machine+Learning+%7C+Network+Ninja;Always+Learning+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 🤖 Passionate about **Machine Learning** applications in security
 - 🧠 Python is my native tech tongue
 - 🌍 Based in Çorum, Turkey
-- 📫 Contact me: [abdulkadiripekk@gmail.com](mailto:abdulkadiripekk@gmail.com)
+- 📫 Reach me at: [abdulkadiripekk@gmail.com](mailto:abdulkadiripekk@gmail.com)
 
 ---
 
@@ -31,24 +31,25 @@
 
 ---
 
-### 🧠 Areas of Focus
+### 🎯 Areas of Focus
 
-- 🔐 Penetration Testing & Red Team Techniques  
-- 🕵️ Cyber Threat Intelligence & Malware Analysis  
+- 🧠 Penetration Testing & Red Team Techniques  
+- 🕵️‍♂️ Cyber Threat Intelligence & Malware Analysis  
 - 🌐 Network Security & Infrastructure  
-- 🤖 AI for Security (ML-based Intrusion Detection, anomaly detection)
+- 🤖 Machine Learning
 
 ---
 
-### 📊 GitHub Activity
+### 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkadiripek&layout=compact&theme=algolia)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abdulkadiripek&theme=algolia&hide_border=false)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdulkadiripek&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkadiripek&theme=tokyonight" />
+</p>
 
 ---
 
-### 📫 Let's Connect
+### 🌍 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulkadir%20İpek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulkadiripek)
 
@@ -56,5 +57,4 @@
 
 ### ✨ Fun Fact
 
-> "The quieter you become, the more you can hear." — Ram Dass  
-
+> *"The quieter you become, the more you can hear."* — Ram Dass  
